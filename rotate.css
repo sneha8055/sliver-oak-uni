@@ -1,0 +1,8 @@
+.image:hover {
+    transition: 3s;
+   transform:rotate(360deg);
+    cursor: pointer;
+    margin: 15px;
+    padding-left: 40px;
+    margin-top: 40px;
+}
